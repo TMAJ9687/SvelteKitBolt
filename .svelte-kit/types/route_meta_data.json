@@ -1,0 +1,17 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/admin": [],
+	"/admin/feedback": [],
+	"/admin/reports": [],
+	"/admin/settings/general": [],
+	"/admin/stats": [],
+	"/admin/users/banned": [],
+	"/admin/users/bots": [],
+	"/admin/users/standard": [],
+	"/admin/users/vip": [],
+	"/chat": [],
+	"/profile-setup": [],
+	"/vip-profile-setup": []
+}
