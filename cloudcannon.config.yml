@@ -1,9 +1,0 @@
-source: /.svelte-kit/output/server/_app/immutable/
-collections_config: {}
-paths:
-  static: ''
-  uploads: uploads
-timezone: Europe/Tallinn
-markdown:
-  engine: commonmark
-  options: {}
